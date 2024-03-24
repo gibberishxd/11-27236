@@ -1,6 +1,5 @@
-from square_generator import SquareGenerator
+from square_generator.square_generator import SquareGenerator
 
-# Example usage:
 square_gen = SquareGenerator()
 start = 1
 end = 10
